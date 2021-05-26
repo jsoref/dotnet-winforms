@@ -178,7 +178,7 @@ namespace System.Windows.Forms
         /// <summary>
         ///  The IME Accept key.
         /// </summary>
-        IMEAceept = IMEAccept,
+        IMEAccept = IMEAccept,
 
         /// <summary>
         ///  The IME Mode change request.
