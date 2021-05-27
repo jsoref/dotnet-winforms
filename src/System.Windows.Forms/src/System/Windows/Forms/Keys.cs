@@ -126,9 +126,9 @@ namespace System.Windows.Forms
         KanaMode = 0x15,
 
         /// <summary>
-        ///  The IME Hanguel mode key.
+        ///  The IME Hangul mode key.
         /// </summary>
-        HanguelMode = 0x15,
+        HangulMode = 0x15,
 
         /// <summary>
         ///  The IME Hangul mode key.
